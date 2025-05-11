@@ -1,7 +1,4 @@
 <h1>Hi 👋, I'm a Data Analyst</h1>
-<p>A passionate frontend developer from Brazil</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -9,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2>🚀 Languages and Tools I Use</h2>
 
 ###
 
